@@ -1,3 +1,3 @@
 # i3
 
-hey
+#i3 configuration
